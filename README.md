@@ -28,7 +28,7 @@ Email Me 👉 ✉️ **prodsagar55@gmail.com** For Collaboration/Project. 😊�
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**"Keep learning, keep building, keep growing."
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SagarChhetrii&limit=5&theme=dark&combine_all_yearly_contributions=true)
