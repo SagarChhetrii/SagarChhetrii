@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **prodsagar55@gmail.com** For Collaboration/Project. 😊😊
 
 - 🌱 **I’m currently learning:** React | Full-Stack development
-- 😄 **Pronouns:** Sagar Sir
+- 😄 **Pronouns:** Sagar 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SagarChhetrii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
