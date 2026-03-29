@@ -43,7 +43,7 @@ const sagar = {
 
 <br>
 
-> *A skilled developer with hands-on experience in frontend development — focused on crafting clean, functional web applications while actively leveling up toward full-stack mastery. One commit at a time.* 🔥
+> *A skilled developer with hands on experience in frontend development focused on crafting clean, functional web applications while actively leveling up toward full-stack mastery. One commit at a time.* 🔥
 
 <br clear="right"/>
 
