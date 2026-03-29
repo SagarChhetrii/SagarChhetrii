@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1a1a2e,40:16213e,70:0f3460,100:533483&text=Sagar%20Chhetri&reversal=false&textBg=false&desc=Frontend%20Developer%20%E2%80%A2%20Full-Stack%20Aspirant%20%E2%80%A2%20Tech%20Enthusiast&descAlignY=68&fontSize=68&fontColor=e2e8f0&descSize=17&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Sagar%20Chhetri&fontSize=75&fontColor=ffffff&stroke=a78bfa&strokeWidth=2&animation=fadeIn&desc=Frontend%20Developer%20%E2%80%A2%20Full-Stack%20Aspirant%20%E2%80%A2%20Tech%20Enthusiast&descSize=18&descAlignY=68&fontAlignY=40"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/SagarChhetrii">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=7C3AED&background=00000000&center=true&vCenter=true&width=620&lines=Hey!+I'm+Sagar+Chhetri+%F0%9F%91%8B;Frontend+Developer+%7C+Full-Stack+Aspirant+%F0%9F%9A%80;Passionate+about+Clean+Code+%26+Great+UI+%F0%9F%8E%A8;Keep+Learning%2C+Keep+Building+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=a78bfa&center=true&vCenter=true&width=620&lines=Hey!+I'm+Sagar+Chhetri+%F0%9F%91%8B;Frontend+Developer+%7C+Full-Stack+Aspirant+%F0%9F%9A%80;Passionate+about+Clean+Code+%26+Great+UI+%F0%9F%8E%A8;Keep+Learning%2C+Keep+Building+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 </div>
 
@@ -43,7 +43,7 @@ const sagar = {
 
 <br>
 
-> *A skilled developer with hands on experience in frontend development focused on crafting clean, functional web applications while actively leveling up toward full-stack mastery. One commit at a time.* 🔥
+> *A skilled developer with hands-on experience in frontend development — focused on crafting clean, functional web applications while actively leveling up toward full-stack mastery. One commit at a time.* 🔥
 
 <br clear="right"/>
 
@@ -86,7 +86,7 @@ const sagar = {
 <h4 align="center">◈ Frameworks & Tools ◈</h4>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,vercel,git,github,postman&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,git,github,postman&perline=6&theme=dark" />
 </div>
 
 <br>
@@ -125,6 +125,12 @@ const sagar = {
   <img height="180em" src="https://streak-stats.demolab.com?user=SagarChhetrii&theme=tokyonight&background=1a1a2e&border=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&hide_border=false" />
 </div>
 
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br>
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -146,5 +152,5 @@ const sagar = {
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:533483,50:0f3460,100:1a1a2e&section=footer&reversal=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:24243e,50:302b63,100:0f0c29&section=footer&reversal=false"/>
 </div>
