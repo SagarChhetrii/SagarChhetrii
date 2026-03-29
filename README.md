@@ -106,7 +106,7 @@ const sagar = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SagarChhetrii&show_icons=true&theme=tokyonight&bg_color=1a1a2e&border_color=7c3aed&icon_color=a78bfa&title_color=a78bfa&text_color=e2e8f0&hide_border=false&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SagarChhetrii&show_icons=true&theme=tokyonight&bg_color=1a1a2e&border_color=7c3aed&icon_color=a78bfa&title_color=a78bfa&text_color=e2e8f0&hide_border=false&count_private=true&cache_seconds=1800" />
   &nbsp;
   <img height="180em" src="https://streak-stats.demolab.com?user=SagarChhetrii&theme=tokyonight&background=1a1a2e&border=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&hide_border=false" />
 </div>
@@ -114,7 +114,7 @@ const sagar = {
 <br>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarChhetrii&layout=compact&theme=tokyonight&bg_color=1a1a2e&border_color=7c3aed&title_color=a78bfa&text_color=e2e8f0&hide_border=false" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarChhetrii&layout=compact&theme=tokyonight&bg_color=1a1a2e&border_color=7c3aed&title_color=a78bfa&text_color=e2e8f0&hide_border=false&cache_seconds=1800&langs_count=8" />
 </div>
 
 ## 📈 Contribution Graph
