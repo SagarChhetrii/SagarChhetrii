@@ -117,24 +117,6 @@ const sagar = {
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarChhetrii&layout=compact&theme=tokyonight&bg_color=1a1a2e&border_color=7c3aed&title_color=a78bfa&text_color=e2e8f0&hide_border=false" />
 </div>
 
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SagarChhetrii&theme=discord&no-frame=false&no-bg=true&margin-w=6&column=6" />
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br>
-
 ## 📈 Contribution Graph
 
 <div align="center">
