@@ -102,7 +102,7 @@ A skilled developer with hands-on experience in front-end development, focused o
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SagarChhetrii&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=false" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SagarChhetrii&theme=tokyonight&background=0D1117&border=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&hide_border=false" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=SagarChhetrii&theme=tokyonight&background=0D1117&border=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&hide_border=false" />
 </div>
 
 <br>
@@ -119,7 +119,7 @@ A skilled developer with hands-on experience in front-end development, focused o
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SagarChhetrii&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SagarChhetrii&theme=darkhub&no-frame=false&no-bg=true&margin-w=8&column=6" />
 </div>
 
 <br>
@@ -131,13 +131,6 @@ A skilled developer with hands-on experience in front-end development, focused o
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SagarChhetrii&theme=react-dark&bg_color=0D1117&color=00d4ff&line=00d4ff&point=FFFFFF&hide_border=true" />
-</div>
-
-<br>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SagarChhetrii/SagarChhetrii/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <br>
