@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d0d0d,50:1a1a2e,100:16213e&text=Sagar%20Chhetri&reversal=false&textBg=false&desc=Frontend%20Developer%20%E2%80%A2%20Full-Stack%20Aspirant%20%E2%80%A2%20Tech%20Enthusiast&descAlignY=65&fontSize=72&fontColor=00d4ff&descSize=18&animation=fadeIn&stroke=00d4ff&strokeWidth=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1a1a2e,40:16213e,70:0f3460,100:533483&text=Sagar%20Chhetri&reversal=false&textBg=false&desc=Frontend%20Developer%20%E2%80%A2%20Full-Stack%20Aspirant%20%E2%80%A2%20Tech%20Enthusiast&descAlignY=68&fontSize=68&fontColor=e2e8f0&descSize=17&animation=fadeIn"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/SagarChhetrii">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sagar+Chhetri+%F0%9F%91%8B;Frontend+Developer+%7C+Full-Stack+Aspirant;Exploring+Technologies+%F0%9F%9A%80;Keep+Learning%2C+Keep+Building+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=7C3AED&background=00000000&center=true&vCenter=true&width=620&lines=Hey!+I'm+Sagar+Chhetri+%F0%9F%91%8B;Frontend+Developer+%7C+Full-Stack+Aspirant+%F0%9F%9A%80;Passionate+about+Clean+Code+%26+Great+UI+%F0%9F%8E%A8;Keep+Learning%2C+Keep+Building+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,157 +12,149 @@
 
 <p align="center">
   <a href="https://github.com/SagarChhetrii?tab=followers">
-    <img src="https://img.shields.io/github/followers/SagarChhetrii?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00d4ff" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/SagarChhetrii?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=7c3aed" alt="Followers"/>
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SagarChhetrii&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=SagarChhetrii&style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 <br>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%; height:auto;" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+<br>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+## 🧑‍💻 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
 ```javascript
 const sagar = {
-  name: "Sagar Chhetri",
-  role: "Frontend Developer → Full-Stack Aspirant",
-  location: "🌏 Exploring the Digital Universe",
-  currentFocus: "Mastering Full-Stack Development",
-  passion: ["Clean Code", "Creative UI", "New Tech"],
-  motto: "Keep learning, keep building, keep growing.",
-  contact: "prodsagar55@gmail.com",
-  openToWork: true
+  name     : "Sagar Chhetri",
+  role     : "Frontend Dev → Full-Stack Aspirant",
+  focus    : "Building functional & beautiful web apps",
+  stack    : ["React", "Node.js", "MongoDB", "Express"],
+  learning : "Full-Stack Mastery 🚀",
+  email    : "prodsagar55@gmail.com",
+  motto    : "Keep learning, keep building, keep growing.",
+  openTo   : "Collaborations & Opportunities ✅"
 };
 ```
 
 <br>
 
-<p align="left" style="font-size: 1.1em; font-style: italic; max-width: 600px;">
-A skilled developer with hands-on experience in front-end development, focused on creating functional and beautiful web applications. Actively working to master the skills needed to become a well-rounded full-stack developer — one commit at a time. 🚀
-</p>
+> *A skilled developer with hands-on experience in frontend development — focused on crafting clean, functional web applications while actively leveling up toward full-stack mastery. One commit at a time.* 🔥
+
+<br clear="right"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <br>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%; height:auto;" />
-
-## 🌐 Cosmic Presence
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sagar-chhetri-938a7431b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Sagar%20Chhetri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:prodsagar55@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-prodsagar55%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-prodsagar55%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/SagarChhetrii">
-    <img src="https://img.shields.io/badge/GitHub-SagarChhetrii-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-SagarChhetrii-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <br>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%; height:auto;" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br>
 
 ## ⚡ Tech Arsenal
 
-<h4 align="center">✦ Languages ✦</h4>
+<h4 align="center">◈ Languages ◈</h4>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css&perline=6&theme=dark" />
 </div>
 
 <br>
 
-<h4 align="center">✦ Frameworks & Tools ✦</h4>
+<h4 align="center">◈ Frameworks & Tools ◈</h4>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,git,github,postman&perline=6&theme=dark" />
 </div>
 
 <br>
 
-<h4 align="center">✦ Databases ✦</h4>
+<h4 align="center">◈ Database ◈</h4>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb&perline=3&theme=dark" />
 </div>
 
 <br>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%; height:auto;" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SagarChhetrii&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=false" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=SagarChhetrii&theme=tokyonight&background=0D1117&border=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SagarChhetrii&show_icons=true&theme=tokyonight&bg_color=1a1a2e&border_color=7c3aed&icon_color=a78bfa&title_color=a78bfa&text_color=e2e8f0&hide_border=false&count_private=true" />
+  &nbsp;
+  <img height="180em" src="https://streak-stats.demolab.com?user=SagarChhetrii&theme=tokyonight&background=1a1a2e&border=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&hide_border=false" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarChhetrii&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=false" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarChhetrii&layout=compact&theme=tokyonight&bg_color=1a1a2e&border_color=7c3aed&title_color=a78bfa&text_color=e2e8f0&hide_border=false" />
 </div>
 
 <br>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%; height:auto;" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SagarChhetrii&theme=darkhub&no-frame=false&no-bg=true&margin-w=8&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SagarChhetrii&theme=discord&no-frame=false&no-bg=true&margin-w=6&column=6" />
 </div>
 
 <br>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%; height:auto;" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SagarChhetrii&theme=react-dark&bg_color=0D1117&color=00d4ff&line=00d4ff&point=FFFFFF&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SagarChhetrii&theme=tokyo-night&bg_color=1a1a2e&color=a78bfa&line=7c3aed&point=f472b6&hide_border=true&area=true&area_color=7c3aed" />
 </div>
 
 <br>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%; height:auto;" />
-
-## 💭 Philosophy
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <br>
-
-<h3 align="center">⚡ WORDS I LIVE BY ⚡</h3>
-
-<p align="center">
-  <i>"Keep learning, keep building, keep growing."</i>
-</p>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%; height:auto;" />
 
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="25" height="25">
-  Let's build something incredible together!
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="25" height="25">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" height="28" />
+  &nbsp;Let's build something incredible together!&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" height="28" />
 </h3>
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:16213e,50:1a1a2e,100:0d0d0d&section=footer&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:533483,50:0f3460,100:1a1a2e&section=footer&reversal=false"/>
 </div>
