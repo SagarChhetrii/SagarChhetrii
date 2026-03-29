@@ -86,7 +86,7 @@ const sagar = {
 <h4 align="center">◈ Frameworks & Tools ◈</h4>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,git,github,postman&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vercel,git,github,postman&perline=6&theme=dark" />
 </div>
 
 <br>
