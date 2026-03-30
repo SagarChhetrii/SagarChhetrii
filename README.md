@@ -122,9 +122,7 @@ const sagar = {
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SagarChhetrii&theme=tokyonight&utcOffset=5.5" width="49%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=SagarChhetrii&show_icons=true&theme=tokyonight&bg_color=1a1a2e&border_color=7c3aed&icon_color=a78bfa&title_color=a78bfa&text_color=e2e8f0&include_all_commits=true&count_private=true" width="49%" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=SagarChhetrii&theme=tokyonight&background=1a1a2e&border=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&hide_border=false" />
 </div>
 
 <br>
