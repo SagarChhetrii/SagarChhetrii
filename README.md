@@ -102,7 +102,7 @@ const sagar = {
 <h4 align="center">◈ Deployment / Hosting ◈</h4>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,render&perline=3&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vercel&perline=3&theme=dark" />
 </div>
 
 <br>
