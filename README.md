@@ -99,6 +99,14 @@ const sagar = {
 
 <br>
 
+<h4 align="center">◈ Deployment / Hosting ◈</h4>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,render&perline=3&theme=dark" />
+</div>
+
+<br>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <br>
