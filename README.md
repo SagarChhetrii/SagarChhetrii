@@ -104,6 +104,9 @@ const sagar = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vercel&perline=3&theme=dark" />
 </div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=render&perline=3&theme=dark" />
+</div>
 
 <br>
 
